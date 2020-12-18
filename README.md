@@ -8,7 +8,7 @@ You are given:
 Your task is to:
 1. Predict correct class for every image in the test dataset.
 
-I performed Principal Component Analysis on the CIFAR-10 dataset consisting of 60000 images. Used classifiers such as Support Vector Machine and Random Forest to predict the correct class for every image in the test dataset
+I performed Principal Component Analysis on the CIFAR-10 dataset consisting of 60000 images. Used classifiers such as Support Vector Machine,Random Forest, Artificial Neural Networks and Convolutional Neural Networks to predict the correct class for every image in the test dataset
 
 This project was done as a part of Data Science and Machine Learning course offered by Coding Ninjas.
 
